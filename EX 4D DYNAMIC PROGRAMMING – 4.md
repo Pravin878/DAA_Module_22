@@ -18,8 +18,8 @@ To find the minimum number of operations to convert str1 to str2 using Naive rec
 ```
 
 Program to implement to find the minimum number of operations to convert str1 to str2 using Naive recursive method
-Developed by: ALAGU NACHIYAR
-Register Number:  212222240006
+Developed by: HARIHARAN A
+Register Number:  212222100012
 
 
 def ed(x,y,m,n):

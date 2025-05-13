@@ -17,8 +17,8 @@ To find the longest string (or strings) that is a substring (or are substrings) 
 ```
 
 Program to implement the longest common substring problem
-Developed by: ALAGU NACHIYAR
-Register Number:  212222240006
+Developed by: HARIHARAN A
+Register Number:  212222100012
   
 def LCS(X, Y, m, n):
  
